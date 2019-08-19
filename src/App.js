@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import Todo from "./Components/Component.js";
 import checkall from "./img/checkall.svg";
